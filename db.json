@@ -1,143 +1,143 @@
 {"words":
   [
     {
-      "word": "TYPECAST",
+      "longest word": "TYPECAST",
       "length": "8",
-      "inner words": [
-        "TESTACY","APTEST","ASPECT","EPACTS","SCATTY","SPACEY","STACTE","CAPES","CASTE","CATES","CATTY","CESTA","EPACT","PACES","PACEY","PACTS","PASTE","PASTY","PATES","PATSY","PATTY","PEATS","PEATY","PESTY","PETTY","SCAPE","SCATT","SEPTA","SPACE","SPACY","SPATE","STATE","TACES","TACET","TACTS","TAPES","TASTE","TASTY","TATES","TEATS","TECTA","TEPAS","TESTA","TESTY","TYPES","YEAST","YETTS","ACES","ACTS","APES","APSE","ATES","AYES","CAPE","CAPS","CASE","CAST","CATE","CATS","CAYS","CEPS","CYST","EAST","EASY","EATS","ESPY","ETAS","EYAS","PACE","PACS","PACT","PACY","PASE","PAST","PATE","PATS","PATY","PAYS","PEAS","PEAT","PECS","PEST","PETS","PYAS","PYES","SATE","SCAT","SEAT","SECT","SEPT","SETA","SETT","SPAE","SPAT","SPAY","SPEC","STAT","STAY","STEP","STET","STEY","STYE","SYCE","TACE","TACT","TAPE","TAPS","TATE","TATS","TEAS","TEAT","TEPA","TEST","TETS","TYES","TYPE","YAPS","YEAS","YEPS","YETT"
+      "words": [
+        "TYPECAST","TESTACY","APTEST","ASPECT","EPACTS","SCATTY","SPACEY","STACTE","CAPES","CASTE","CATES","CATTY","CESTA","EPACT","PACES","PACEY","PACTS","PASTE","PASTY","PATES","PATSY","PATTY","PEATS","PEATY","PESTY","PETTY","SCAPE","SCATT","SEPTA","SPACE","SPACY","SPATE","STATE","TACES","TACET","TACTS","TAPES","TASTE","TASTY","TATES","TEATS","TECTA","TEPAS","TESTA","TESTY","TYPES","YEAST","YETTS","ACES","ACTS","APES","APSE","ATES","AYES","CAPE","CAPS","CASE","CAST","CATE","CATS","CAYS","CEPS","CYST","EAST","EASY","EATS","ESPY","ETAS","EYAS","PACE","PACS","PACT","PACY","PASE","PAST","PATE","PATS","PATY","PAYS","PEAS","PEAT","PECS","PEST","PETS","PYAS","PYES","SATE","SCAT","SEAT","SECT","SEPT","SETA","SETT","SPAE","SPAT","SPAY","SPEC","STAT","STAY","STEP","STET","STEY","STYE","SYCE","TACE","TACT","TAPE","TAPS","TATE","TATS","TEAS","TEAT","TEPA","TEST","TETS","TYES","TYPE","YAPS","YEAS","YEPS","YETT"
       ]
     },
     {
-      "word": "FUNCTION",
+      "longest word": "FUNCTION",
       "length": "8",
-      "inner words": [
-        "UNCTION","CONFIT","NUNCIO","CONIN","COUNT","CUTIN","FOUNT","FUTON","NITON","ONTIC","TONIC","TUNIC","UNFIT","UNION","CION","COFT","COIF","COIN","CONI","CONN","CUIF","CUNT","FICO","FINO","FOCI","FOIN","FONT","FUCI","ICON","INFO","INTO","NOUN","OTIC","TOFU","UNCI","UNCO","UNIT","UNTO"
+      "words": [
+        "FUNCTION","UNCTION","CONFIT","NUNCIO","CONIN","COUNT","CUTIN","FOUNT","FUTON","NITON","ONTIC","TONIC","TUNIC","UNFIT","UNION","CION","COFT","COIF","COIN","CONI","CONN","CUIF","CUNT","FICO","FINO","FOCI","FOIN","FONT","FUCI","ICON","INFO","INTO","NOUN","OTIC","TOFU","UNCI","UNCO","UNIT","UNTO"
       ]
     },
     {
-      "word": "VARIABLE",
+      "longest word": "VARIABLE",
       "length": "8",
-      "inner words": [
-        "REAVAIL","VELARIA","ABELIA","AERIAL","ARABLE","BAILER","LARVAE","LIBRAE","REALIA","VERBAL","VIABLE","ABLER","AIVER","ALIVE","AREAL","ARIEL","ARVAL","AVAIL","BALER","BIRLE","BLARE","BLEAR","BRAIL","BRAVA","BRAVE","BRAVI","ERVIL","LAARI","LABIA","LABRA","LARVA","LAVER","LIBER","LIBRA","LIVER","LIVRE","RAVEL","RIVAL","VARIA","VELAR","VILER","VIRAL","ABLE","ABRI","ALAE","ALAR","ALBA","AREA","ARIA","ARIL","AVER","BAAL","BAIL","BALE","BARE","BEAR","BIER","BILE","BIRL","BLAE","BRAE","BRIE","EARL","EVIL","ILEA","LAIR","LARI","LAVA","LAVE","LEAR","LEVA","LIAR","LIER","LIRA","LIRE","LIVE","RAIA","RAIL","RALE","RAVE","REAL","RIAL","RIEL","RILE","RIVE","VAIL","VAIR","VALE","VARA","VEAL","VEIL","VELA","VERA","VERB","VIAL","VIBE","VIER","VILE","VIRL"
+      "words": [
+        "VARIABLE","REAVAIL","VELARIA","ABELIA","AERIAL","ARABLE","BAILER","LARVAE","LIBRAE","REALIA","VERBAL","VIABLE","ABLER","AIVER","ALIVE","AREAL","ARIEL","ARVAL","AVAIL","BALER","BIRLE","BLARE","BLEAR","BRAIL","BRAVA","BRAVE","BRAVI","ERVIL","LAARI","LABIA","LABRA","LARVA","LAVER","LIBER","LIBRA","LIVER","LIVRE","RAVEL","RIVAL","VARIA","VELAR","VILER","VIRAL","ABLE","ABRI","ALAE","ALAR","ALBA","AREA","ARIA","ARIL","AVER","BAAL","BAIL","BALE","BARE","BEAR","BIER","BILE","BIRL","BLAE","BRAE","BRIE","EARL","EVIL","ILEA","LAIR","LARI","LAVA","LAVE","LEAR","LEVA","LIAR","LIER","LIRA","LIRE","LIVE","RAIA","RAIL","RALE","RAVE","REAL","RIAL","RIEL","RILE","RIVE","VAIL","VAIR","VALE","VARA","VEAL","VEIL","VELA","VERA","VERB","VIAL","VIBE","VIER","VILE","VIRL"
       ]
     },
     {
-      "word": "CONSTANT",
+      "longest word": "CONSTANT",
       "length": "8",
-      "inner words": [
-        "CANTONS","OCTANTS","CANNOT","CANONS","CANTON","CANTOS","COTANS","COTTAS","OCTANS","OCTANT","SONANT","ANCON","ASCOT","CANON","CANSO","CANST","CANTO","CANTS","COAST","COATS","CONNS","COSTA","COTAN","COTTA","NONAS","OCTAN","SANTO","SCANT","SCATT","STOAT","TACOS","TACTS","TANTO","TOAST","ACTS","ANON","ANTS","CANS","CANT","CAST","CATS","COAT","CONN","CONS","COST","COTS","NANS","NAOS","NONA","NOTA","OAST","OATS","OCAS","SCAN","SCAT","SCOT","SNOT","SOCA","STAT","STOA","STOT","TACO","TACT","TANS","TAOS","TATS","TONS","TOST","TOTS"
+      "words": [
+        "CONSTANT","CANTONS","OCTANTS","CANNOT","CANONS","CANTON","CANTOS","COTANS","COTTAS","OCTANS","OCTANT","SONANT","ANCON","ASCOT","CANON","CANSO","CANST","CANTO","CANTS","COAST","COATS","CONNS","COSTA","COTAN","COTTA","NONAS","OCTAN","SANTO","SCANT","SCATT","STOAT","TACOS","TACTS","TANTO","TOAST","ACTS","ANON","ANTS","CANS","CANT","CAST","CATS","COAT","CONN","CONS","COST","COTS","NANS","NAOS","NONA","NOTA","OAST","OATS","OCAS","SCAN","SCAT","SCOT","SNOT","SOCA","STAT","STOA","STOT","TACO","TACT","TANS","TAOS","TATS","TONS","TOST","TOTS"
       ]
     },
     {
-      "word": "EQUALITY",
+      "longest word": "EQUALITY",
       "length": "8",
-      "inner words": [
-        "LIQUATE","QUALITY","QUIETLY","TEQUILA","EQUITY","EQUAL","LAITY","LUTEA","QUAIL","QUALE","QUATE","QUIET","QUILT","QUITE","TELIA","UTILE","ALIT","ETUI","ILEA","LATE","LATI","LATU","LIEU","LITE","LITU","LUTE","QUAI","QUAY","QUEY","QUIT","TAEL","TAIL","TALE","TALI","TEAL","TELA","TILE","TULE","YETI","YULE"
+      "words": [
+        "EQUALITY","LIQUATE","QUALITY","QUIETLY","TEQUILA","EQUITY","EQUAL","LAITY","LUTEA","QUAIL","QUALE","QUATE","QUIET","QUILT","QUITE","TELIA","UTILE","ALIT","ETUI","ILEA","LATE","LATI","LATU","LIEU","LITE","LITU","LUTE","QUAI","QUAY","QUEY","QUIT","TAEL","TAIL","TALE","TALI","TEAL","TELA","TILE","TULE","YETI","YULE"
       ]
     },
     {
-      "word": "COMMENT",
+      "longest word": "COMMENT",
       "length": "7",
-      "inner words": [
-        "MOMENT","CENTO","COMET","COMTE","CONTE","MONTE","ONCET","CENT","COME","CONE","COTE","MEMO","MENO","MOME","MOTE","NOME","NOTE","OMEN","ONCE","TOME","TONE"
+      "words": [
+        "COMMENT","MOMENT","CENTO","COMET","COMTE","CONTE","MONTE","ONCET","CENT","COME","CONE","COTE","MEMO","MENO","MOME","MOTE","NOME","NOTE","OMEN","ONCE","TOME","TONE"
       ]
     },
     {
-      "word": "LIBRARY",
+      "longest word": "LIBRARY",
       "length": "7",
-      "inner words": [
-        "BRIARY","BIALY","BRAIL","BRIAR","LIBRA","RIYAL","ABLY","ABRI","AIRY","ARIL","ARYL","BAIL","BIRL","BIRR","BRAY","BYRL","LAIR","LARI","LIAR","LIRA","RAIL","RIAL","YIRR"
+      "words": [
+        "LIBRARY","BRIARY","BIALY","BRAIL","BRIAR","LIBRA","RIYAL","ABLY","ABRI","AIRY","ARIL","ARYL","BAIL","BIRL","BIRR","BRAY","BYRL","LAIR","LARI","LIAR","LIRA","RAIL","RIAL","YIRR"
       ]
     },
     {
-      "word": "BOOLEAN",
+      "longest word": "BOOLEAN",
       "length": "7",
-      "inner words": [
-        "ABOON","ALONE","ANOLE","BEANO","BELON","NOBLE","OBOLE","ABLE","AEON","ALOE","BALE","BANE","BEAN","BLAE","BOLA","BOLE","BOLO","BONE","BOON","EBON","ELAN","ENOL","LANE","LEAN","LENO","LOAN","LOBE","LOBO","LONE","LOON","NABE","NOEL","NOLO","OBOE","OBOL","OLEA","OLEO"
+      "words": [
+        "BOOLEAN","ABOON","ALONE","ANOLE","BEANO","BELON","NOBLE","OBOLE","ABLE","AEON","ALOE","BALE","BANE","BEAN","BLAE","BOLA","BOLE","BOLO","BONE","BOON","EBON","ELAN","ENOL","LANE","LEAN","LENO","LOAN","LOBE","LOBO","LONE","LOON","NABE","NOEL","NOLO","OBOE","OBOL","OLEA","OLEO"
       ]
     },
     {
-      "word": "MODULUS",
+      "longest word": "MODULUS",
       "length": "7",
-      "inner words": [
-        "MOULDS","DOUMS","MODUS","MOLDS","MOULD","SOLUM","DOLS","DOMS","DOUM","DUOS","LOUD","LUMS","MODS","MOLD","MOLS","MUDS","OLDS","OUDS","SLUM","SOLD","SOUL","SULU","SUMO","UDOS","ULUS"
+      "words": [
+        "MODULUS","MOULDS","DOUMS","MODUS","MOLDS","MOULD","SOLUM","DOLS","DOMS","DOUM","DUOS","LOUD","LUMS","MODS","MOLD","MOLS","MUDS","OLDS","OUDS","SLUM","SOLD","SOUL","SULU","SUMO","UDOS","ULUS"
       ]
     },
     {
-      "word": "FEATURE",
+      "longest word": "FEATURE",
       "length": "7",
-      "inner words": [
-        "AFREET","FEATER","REFUTE","AFTER","ARETE","EATER","FEUAR","URATE","FARE","FART","FATE","FEAR","FEAT","FEET","FERE","FETA","FETE","FRAE","FRAT","FREE","FRET","RAFT","RATE","REEF","REFT","RETE","TARE","TEAR","TREE","TREF","TRUE","TUFA","TURF","UREA"
+      "words": [
+        "FEATURE","AFREET","FEATER","REFUTE","AFTER","ARETE","EATER","FEUAR","URATE","FARE","FART","FATE","FEAR","FEAT","FEET","FERE","FETA","FETE","FRAE","FRAT","FREE","FRET","RAFT","RATE","REEF","REFT","RETE","TARE","TEAR","TREE","TREF","TRUE","TUFA","TURF","UREA"
       ]
     },
     {
-      "word": "SERVER",
+      "longest word": "SERVER",
       "length": "6",
-      "inner words": [
-        "SERER","SERVE","SEVER","VEERS","VERSE","ERRS","EVER","EVES","REES","REVS","SEER","SERE","VEER","VEES"
+      "words": [
+        "SERVER","SERER","SERVE","SEVER","VEERS","VERSE","ERRS","EVER","EVES","REES","REVS","SEER","SERE","VEER","VEES"
       ]
     },
     {
-      "word": "STRING",
+      "longest word": "STRING",
       "length": "6",
-      "inner words": [
-        "GIRNS","GIRTS","GRINS","GRIST","GRITS","RINGS","STING","TINGS","TRIGS","GINS","GIRN","GIRT","GIST","GITS","GRIN","GRIT","NITS","RIGS","RING","RINS","SIGN","SING","SNIT","STIR","TING","TINS","TRIG"
+      "words": [
+        "STRING","GIRNS","GIRTS","GRINS","GRIST","GRITS","RINGS","STING","TINGS","TRIGS","GINS","GIRN","GIRT","GIST","GITS","GRIN","GRIT","NITS","RIGS","RING","RINS","SIGN","SING","SNIT","STIR","TING","TINS","TRIG"
       ]
     },
     {
-      "word": "METHOD",
+      "longest word": "METHOD",
       "length": "6",
-      "inner words": [
-        "DOETH","HOMED","DEMO","DOME","DOTE","DOTH","HOED","HOME","METH","MODE","MOTE","MOTH","OHED","THEM","TOED","TOME"
+      "words": [
+        "METHOD","DOETH","HOMED","DEMO","DOME","DOTE","DOTH","HOED","HOME","METH","MODE","MOTE","MOTH","OHED","THEM","TOED","TOME"
       ]
     },
     {
-      "word": "ASSIGN",
+      "longest word": "ASSIGN",
       "length": "6",
-      "inner words": [
-        "GAINS","SAINS","SASIN","SIGNA","SIGNS","SINGS","SNAGS","AGIN","AINS","ANIS","GAIN","GINS","NAGS","SAGS","SAIN","SANG","SANS","SIGN","SING","SINS","SNAG"
+      "words": [
+        "ASSIGN","GAINS","SAINS","SASIN","SIGNA","SIGNS","SINGS","SNAGS","AGIN","AINS","ANIS","GAIN","GINS","NAGS","SAGS","SAIN","SANG","SANS","SIGN","SING","SINS","SNAG"
       ]
     },
     {
-      "word": "RETURN",
+      "longest word": "RETURN",
       "length": "6",
-      "inner words": [
-        "RERUN","TRUER","TUNER","RENT","RUER","RUNE","RUNT","TERN","TRUE","TUNE","TURN"
+      "words": [
+        "RETURN","RERUN","TRUER","TUNER","RENT","RUER","RUNE","RUNT","TERN","TRUE","TUNE","TURN"
       ]
     },
     {
-      "word": "VALUE",
+      "longest word": "VALUE",
       "length": "5",
-      "inner words": [
-        "LAVE","LEVA","ULVA","UVEA","VALE","VEAL","VELA"
+      "words": [
+        "VALUE","LAVE","LEVA","ULVA","UVEA","VALE","VEAL","VELA"
       ]
     },
     {
-      "word": "INPUT",
+      "longest word": "INPUT",
       "length": "5",
-      "inner words": [
-        "PINT","PTUI","PUNT","UNIT"
+      "words": [
+        "INPUT","PINT","PTUI","PUNT","UNIT"
       ]
     },
     {
-      "word": "LOGIC",
+      "longest word": "LOGIC",
       "length": "5",
-      "inner words": [
-        "CLOG","COIL","LOCI"
+      "words": [
+        "LOGIC","CLOG","COIL","LOCI"
       ]
     },
     {
-      "word": "CLASS",
+      "longest word": "CLASS",
       "length": "5",
-      "inner words": [
-        "LACS","LASS","SACS","SALS"
+      "words": [
+        "CLASS","LACS","LASS","SACS","SALS"
       ]
     },
     {
-      "word": "TUPLE",
+      "longest word": "TUPLE",
       "length": "5",
-      "inner words": [
-        "LEPT","LUTE","PELT","PULE","TULE"
+      "words": [
+        "TUPLE","LEPT","LUTE","PELT","PULE","TULE"
       ]
     }
   ]
