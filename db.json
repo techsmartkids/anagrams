@@ -46,98 +46,98 @@
       "word": "LIBRARY",
       "length": "7",
       "inner words": [
-        "BRIARY,BIALY,BRAIL,BRIAR,LIBRA,RIYAL,ABLY,ABRI,AIRY,ARIL,ARYL,BAIL,BIRL,BIRR,BRAY,BYRL,LAIR,LARI,LIAR,LIRA,RAIL,RIAL,YIRR"
+        "BRIARY","BIALY","BRAIL","BRIAR","LIBRA","RIYAL","ABLY","ABRI","AIRY","ARIL","ARYL","BAIL","BIRL","BIRR","BRAY","BYRL","LAIR","LARI","LIAR","LIRA","RAIL","RIAL","YIRR"
       ]
     },
     {
       "word": "BOOLEAN",
       "length": "7",
       "inner words": [
-        "ABOON,ALONE,ANOLE,BEANO,BELON,NOBLE,OBOLE,ABLE,AEON,ALOE,BALE,BANE,BEAN,BLAE,BOLA,BOLE,BOLO,BONE,BOON,EBON,ELAN,ENOL,LANE,LEAN,LENO,LOAN,LOBE,LOBO,LONE,LOON,NABE,NOEL,NOLO,OBOE,OBOL,OLEA,OLEO"
+        "ABOON","ALONE","ANOLE","BEANO","BELON","NOBLE","OBOLE","ABLE","AEON","ALOE","BALE","BANE","BEAN","BLAE","BOLA","BOLE","BOLO","BONE","BOON","EBON","ELAN","ENOL","LANE","LEAN","LENO","LOAN","LOBE","LOBO","LONE","LOON","NABE","NOEL","NOLO","OBOE","OBOL","OLEA","OLEO"
       ]
     },
     {
       "word": "MODULUS",
       "length": "7",
       "inner words": [
-        "MOULDS,DOUMS,MODUS,MOLDS,MOULD,SOLUM,DOLS,DOMS,DOUM,DUOS,LOUD,LUMS,MODS,MOLD,MOLS,MUDS,OLDS,OUDS,SLUM,SOLD,SOUL,SULU,SUMO,UDOS,ULUS"
+        "MOULDS","DOUMS","MODUS","MOLDS","MOULD","SOLUM","DOLS","DOMS","DOUM","DUOS","LOUD","LUMS","MODS","MOLD","MOLS","MUDS","OLDS","OUDS","SLUM","SOLD","SOUL","SULU","SUMO","UDOS","ULUS"
       ]
     },
     {
       "word": "FEATURE",
       "length": "7",
       "inner words": [
-        "AFREET,FEATER,REFUTE,AFTER,ARETE,EATER,FEUAR,URATE,FARE,FART,FATE,FEAR,FEAT,FEET,FERE,FETA,FETE,FRAE,FRAT,FREE,FRET,RAFT,RATE,REEF,REFT,RETE,TARE,TEAR,TREE,TREF,TRUE,TUFA,TURF,UREA"
+        "AFREET","FEATER","REFUTE","AFTER","ARETE","EATER","FEUAR","URATE","FARE","FART","FATE","FEAR","FEAT","FEET","FERE","FETA","FETE","FRAE","FRAT","FREE","FRET","RAFT","RATE","REEF","REFT","RETE","TARE","TEAR","TREE","TREF","TRUE","TUFA","TURF","UREA"
       ]
     },
     {
       "word": "SERVER",
       "length": "6",
       "inner words": [
-        "SERER,SERVE,SEVER,VEERS,VERSE,ERRS,EVER,EVES,REES,REVS,SEER,SERE,VEER,VEES"
+        "SERER","SERVE","SEVER","VEERS","VERSE","ERRS","EVER","EVES","REES","REVS","SEER","SERE","VEER","VEES"
       ]
     },
     {
       "word": "STRING",
       "length": "6",
       "inner words": [
-        "GIRNS,GIRTS,GRINS,GRIST,GRITS,RINGS,STING,TINGS,TRIGS,GINS,GIRN,GIRT,GIST,GITS,GRIN,GRIT,NITS,RIGS,RING,RINS,SIGN,SING,SNIT,STIR,TING,TINS,TRIG"
+        "GIRNS","GIRTS","GRINS","GRIST","GRITS","RINGS","STING","TINGS","TRIGS","GINS","GIRN","GIRT","GIST","GITS","GRIN","GRIT","NITS","RIGS","RING","RINS","SIGN","SING","SNIT","STIR","TING","TINS","TRIG"
       ]
     },
     {
       "word": "METHOD",
       "length": "6",
       "inner words": [
-        "DOETH,HOMED,DEMO,DOME,DOTE,DOTH,HOED,HOME,METH,MODE,MOTE,MOTH,OHED,THEM,TOED,TOME"
+        "DOETH","HOMED","DEMO","DOME","DOTE","DOTH","HOED","HOME","METH","MODE","MOTE","MOTH","OHED","THEM","TOED","TOME"
       ]
     },
     {
       "word": "ASSIGN",
       "length": "6",
       "inner words": [
-        "GAINS,SAINS,SASIN,SIGNA,SIGNS,SINGS,SNAGS,AGIN,AINS,ANIS,GAIN,GINS,NAGS,SAGS,SAIN,SANG,SANS,SIGN,SING,SINS,SNAG"
+        "GAINS","SAINS","SASIN","SIGNA","SIGNS","SINGS","SNAGS","AGIN","AINS","ANIS","GAIN","GINS","NAGS","SAGS","SAIN","SANG","SANS","SIGN","SING","SINS","SNAG"
       ]
     },
     {
       "word": "RETURN",
       "length": "6",
       "inner words": [
-        "RERUN,TRUER,TUNER,RENT,RUER,RUNE,RUNT,TERN,TRUE,TUNE,TURN"
+        "RERUN","TRUER","TUNER","RENT","RUER","RUNE","RUNT","TERN","TRUE","TUNE","TURN"
       ]
     },
     {
       "word": "VALUE",
       "length": "5",
       "inner words": [
-        "LAVE,LEVA,ULVA,UVEA,VALE,VEAL,VELA"
+        "LAVE","LEVA","ULVA","UVEA","VALE","VEAL","VELA"
       ]
     },
     {
       "word": "INPUT",
       "length": "5",
       "inner words": [
-        "PINT,PTUI,PUNT,UNIT"
+        "PINT","PTUI","PUNT","UNIT"
       ]
     },
     {
       "word": "LOGIC",
       "length": "5",
       "inner words": [
-        "CLOG,COIL,LOCI"
+        "CLOG","COIL","LOCI"
       ]
     },
     {
       "word": "CLASS",
       "length": "5",
       "inner words": [
-        "LACS,LASS,SACS,SALS"
+        "LACS","LASS","SACS","SALS"
       ]
     },
     {
       "word": "TUPLE",
       "length": "5",
       "inner words": [
-        "LEPT,LUTE,PELT,PULE,TULE"
+        "LEPT","LUTE","PELT","PULE","TULE"
       ]
     }
   ]
